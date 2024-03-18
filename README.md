@@ -1,2 +1,1 @@
-# testePhpFront
-Projeto frontend com react para o teste de uma vaga de desenvolvimento.
+para execultar o front só basta abrir o index.html no browser ;
